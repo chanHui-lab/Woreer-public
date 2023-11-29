@@ -1,4 +1,19 @@
-# Woreer - a women-specific job searching app
+<p align="center">
+  <a target="_blank">
+    <img src="./assets/logo/Logo2.jpg" width="200" alt="Your Image Alt Text">
+  </a>
+</p>
+
+# Woreer 
+
+A job searching app that is catered for women to search decent jobs opportunities for women graduates and women who wish to reenter worforce with family-friendly and flexible and increse their employability skills by offering training interview courses, community forum to connect with motivated individuals.
+
+## System Interface
+<div style="display:flex; justify-content: space-between;">
+    <img src="https://drive.google.com/uc?id=1YSa5IxADMJbueMmYxSDuuK-mNgw3-SLM" alt="Search" width="200"/>
+    <img src="https://drive.google.com/uc?id=1eLUda_1n8AYW-jHfM0-c6kzOqhd1fgy3" alt="Job details" width="200"/>
+    <img src="https://drive.google.com/uc?id=1-cVs0g452jcowdpeGSVInBAl9MPvLvqu" alt="Forum" width="200"/>
+</div>
 
 ## Build Setup
 
